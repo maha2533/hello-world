@@ -1,1 +1,1 @@
-# This repository is for practising the GitHub Flow
+# Namaste. Myself I am Sricharan, studying B.Tech 3rd year in Mahindra University
